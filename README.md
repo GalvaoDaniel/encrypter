@@ -19,4 +19,4 @@ $ mvn package
 
 ### Command to execute project
 
-$ java -jar target/encrypter-1.0-SNAPSHOT.jar <String to encrypt>
+$ java -jar target/encrypter-1.0-SNAPSHOT.jar (String to encrypt)
