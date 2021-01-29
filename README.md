@@ -1,5 +1,5 @@
-Project based on following project:
-https://mkyong.com/maven/how-to-create-a-java-project-with-maven/
+Project based on following project: <br/>
+https://mkyong.com/maven/how-to-create-a-java-project-with-maven/ <br/>
 https://github.com/mkyong/maven-examples
 
 ## Technologies used
@@ -10,11 +10,11 @@ https://github.com/mkyong/maven-examples
 
 ### Command to download project
 
-$ git clone 
+$ git clone https://github.com/GalvaoDaniel/encrypter.git
 
 ### Command to build project
 
-$ cd encrypter
+$ cd encrypter <br/>
 $ mvn package
 
 ### Command to execute project
